@@ -25,7 +25,7 @@
     "data-store": "^0.16.1",
     "date-store": "^0.1.2",
     "extend-shallow": "^2.0.1",
-    "get-pkg": "^0.3.0",
+    "get-pkg": "github:stefanwalther/get-pkg#axios",
     "lazy-cache": "^2.0.2",
     "markdown-reference": "^0.1.0",
     "ora": "^0.4.0",
